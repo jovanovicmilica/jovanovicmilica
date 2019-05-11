@@ -84,7 +84,7 @@
     p,nav ul li a,#projekti .tekst a,#kontakt input,#kontakt input::placeholder,#kontakt textarea, #kontakt textarea::placeholder{
         font-size: 14px;
     }
-    h1{
+    #pocetna #naslov h1{
         border: 0px;
     }
 }
