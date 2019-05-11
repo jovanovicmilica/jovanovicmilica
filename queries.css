@@ -56,6 +56,7 @@
     }
     .drzac .sajt{
         width: 90%;
+        height: 400px;
     }
     #obrazovanje .desno {
         display: none;
@@ -66,6 +67,7 @@
     }
     #vestine #okvir .dijamant{
         width: 70%;
+        height: 250px;
     }
     h1{
         border-top: 1px solid #fff;
