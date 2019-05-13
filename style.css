@@ -127,7 +127,15 @@ nav {
   text-align: center;
   padding-top: 60px; }
   #projekti .sajt {
-    background-image: url("img/recepti.png"); }
+    background-image: url("img/recepti.png");
+    position: relative; }
+    #projekti .sajt #transparent {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      background-color: rgba(0, 0, 0, 0.6); }
+      #projekti .sajt #transparent:hover {
+        background-color: rgba(0, 0, 0, 0); }
   #projekti .tekst a {
     text-decoration: none;
     color: #fff;
