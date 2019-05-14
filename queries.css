@@ -69,15 +69,15 @@
         width: 70%;
         height: 250px;
     }
-    h1{
+    h1, #pocetna #naslov h1{
         border-top: 1px solid #fff;
         margin: 10px;
         font-size: 17px;
     }
-    h2, #vestine #okvir .dijamant p{
+    h2, #vestine #okvir .dijamant p, #pocetna #naslov h2{
         font-size: 15px;
     }
-    h3{
+    h3,#pocetna #naslov h3{
         font-size: 14px;
     }
     footer a i,#pocetna #pocetna #strelica i{
