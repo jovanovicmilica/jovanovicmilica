@@ -76,7 +76,7 @@ nav{
             a{
                 @include a;
                 padding: 10px;
-                font-size: 20px;
+                font-size: 22px;
             }
         }
     }
@@ -121,6 +121,15 @@ nav{
         animation: fadein;
         animation-duration: 15s;
         text-align: center;
+        h1{
+            font-size: 40px;
+        }
+        h2{
+            font-size: 35px;
+        }
+        h3{
+            font-size: 30px;
+        }
     }
     #sredina{
         height: 100%;
