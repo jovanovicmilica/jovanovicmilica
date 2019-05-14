@@ -46,7 +46,7 @@ nav {
         text-decoration: none;
         color: #fff;
         padding: 10px;
-        font-size: 20px; }
+        font-size: 22px; }
 
 .pozadina {
   width: 300px;
@@ -97,6 +97,12 @@ nav {
     animation: fadein;
     animation-duration: 15s;
     text-align: center; }
+    #pocetna #naslov h1 {
+      font-size: 40px; }
+    #pocetna #naslov h2 {
+      font-size: 35px; }
+    #pocetna #naslov h3 {
+      font-size: 30px; }
   #pocetna #sredina {
     height: 100%;
     display: none; }
