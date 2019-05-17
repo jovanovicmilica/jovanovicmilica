@@ -24,7 +24,7 @@
         margin: 0px auto;
     }
     nav{
-        position: relative;
+        position: static;
     }
     .drzac{
         flex-direction: column;
