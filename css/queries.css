@@ -32,6 +32,9 @@
     #kontakt input, #kontakt textarea{
         width: 90%;
     }
+    #obrazovanje #sadrzaj .tekst{
+        margin-left: 10px;
+    }
 }
 
 @media screen and (max-width: 480px){
