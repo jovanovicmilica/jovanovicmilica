@@ -35,6 +35,15 @@
     #obrazovanje #sadrzaj .tekst{
         margin-left: 10px;
     }
+    #pocetna #naslov h1{
+        font-size: 35px;
+    }
+    #pocetna #naslov h2{
+        font-size: 30px;
+    }
+    #pocetna #naslov h3{
+        font-size: 25px;
+    }
 }
 
 @media screen and (max-width: 480px){
