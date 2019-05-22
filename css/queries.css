@@ -14,6 +14,9 @@
     #vestine #okvir .dijamant{
         width: 40%;
     }
+    #obrazovanje #sadrzaj .tekst{
+        margin-left: 10px;
+    }
 }
 
 @media screen and (max-width: 768px){
@@ -31,9 +34,6 @@
     }
     #kontakt input, #kontakt textarea{
         width: 90%;
-    }
-    #obrazovanje #sadrzaj .tekst{
-        margin-left: 10px;
     }
     #pocetna #naslov h1{
         font-size: 35px;
