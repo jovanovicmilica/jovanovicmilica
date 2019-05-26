@@ -17,6 +17,27 @@
     #obrazovanje #sadrzaj .tekst{
         margin-left: 10px;
     }
+    h1{
+        font-size: 28px;
+    }
+    h2{
+        font-size: 23px;
+    }
+    h3{
+        font-size: 18px;
+    }
+    p{
+        font-size: 22px;
+    }
+    #pocetna #naslov h1{
+        font-size: 35px;
+    }
+    #pocetna #naslov h2{
+        font-size: 30px;
+    }
+    #pocetna #naslov h3{
+        font-size: 25px;
+    }
 }
 
 @media screen and (max-width: 768px){
@@ -36,13 +57,25 @@
         width: 90%;
     }
     #pocetna #naslov h1{
-        font-size: 35px;
-    }
-    #pocetna #naslov h2{
         font-size: 30px;
     }
-    #pocetna #naslov h3{
+    #pocetna #naslov h2{
         font-size: 25px;
+    }
+    #pocetna #naslov h3{
+        font-size: 20px;
+    }
+    h1{
+        font-size: 26px;
+    }
+    h2{
+        font-size: 22px;
+    }
+    h3{
+        font-size: 16px;
+    }
+    p{
+        font-size: 20px;
     }
 }
 
@@ -90,7 +123,10 @@
         font-size: 17px;
     }
     h3{
-        font-size: 14px;
+        font-size: 15px;
+    }
+    p{
+        font-size: 18px;
     }
     footer a i,#pocetna #pocetna #strelica i{
         font-size: 25px;
