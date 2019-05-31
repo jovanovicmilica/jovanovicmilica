@@ -21,10 +21,10 @@
         font-size: 28px;
     }
     h2{
-        font-size: 25px;
+        font-size: 23px;
     }
     h3{
-        font-size: 23px;
+        font-size: 18px;
     }
     p{
         font-size: 22px;
@@ -69,10 +69,10 @@
         font-size: 26px;
     }
     h2{
-        font-size: 23px;
+        font-size: 22px;
     }
     h3{
-        font-size: 21px;
+        font-size: 16px;
     }
     p{
         font-size: 20px;
@@ -117,13 +117,13 @@
     h1{
         border-top: 1px solid #fff;
         margin: 10px;
-        font-size: 22px;
-    }
-    h2, #vestine #okvir .dijamant p{
         font-size: 20px;
     }
+    h2, #vestine #okvir .dijamant p{
+        font-size: 17px;
+    }
     h3{
-        font-size: 19px;
+        font-size: 15px;
     }
     p{
         font-size: 18px;
@@ -131,8 +131,11 @@
     footer a i,#pocetna #pocetna #strelica i{
         font-size: 25px;
     }
-    p,nav ul li a,#projekti .tekst a,#kontakt input,#kontakt input::placeholder,#kontakt textarea, #kontakt textarea::placeholder{
+    #projekti .tekst a,#kontakt input,#kontakt input::placeholder,#kontakt textarea, #kontakt textarea::placeholder{
         font-size: 14px;
+    }
+    p,nav ul li a{
+        font-size: 16px;
     }
     #pocetna #naslov h1{
         border: 0px;
