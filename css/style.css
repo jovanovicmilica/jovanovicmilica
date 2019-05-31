@@ -18,10 +18,10 @@ h1 {
   font-size: 30px; }
 
 h2 {
-  font-size: 25px; }
+  font-size: 27px; }
 
 h3 {
-  font-size: 20px; }
+  font-size: 25px; }
 
 p {
   font-size: 24px; }
@@ -142,6 +142,8 @@ nav {
       background-color: rgba(0, 0, 0, 0.6); }
       #projekti .sajt #transparent:hover {
         background-color: rgba(0, 0, 0, 0); }
+  #projekti .svece {
+    background-image: url("../img/sajt1.jpg"); }
   #projekti .tekst a {
     text-decoration: none;
     color: #fff;
