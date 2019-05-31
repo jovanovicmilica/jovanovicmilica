@@ -1,1 +1,0 @@
-function scrollFunction(){document.body.scrollTop>20||document.documentElement.scrollTop>20?document.getElementById("strelica").style.display="block":document.getElementById("strelica").style.display="none"}function topFunction(){$("html, body").animate({scrollTop:0},"slow")}window.onscroll=function(){scrollFunction()};
