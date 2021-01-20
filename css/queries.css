@@ -1,0 +1,151 @@
+@media screen and (max-width: 920px){
+    nav ul{
+        width: 100%;
+    }
+    .desno{
+            display: none;
+    }
+    .levo{
+        animation: none;
+    }
+    #naslov{
+        margin-left: 60px;
+    }
+    #vestine #okvir .dijamant{
+        width: 40%;
+    }
+    #obrazovanje #sadrzaj .tekst{
+        margin-left: 10px;
+    }
+    h1{
+        font-size: 28px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    h3{
+        font-size: 23px;
+    }
+    p{
+        font-size: 22px;
+    }
+    #pocetna #naslov h1{
+        font-size: 35px;
+    }
+    #pocetna #naslov h2{
+        font-size: 30px;
+    }
+    #pocetna #naslov h3{
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    ul{
+        flex-direction: column;
+    }
+    li{
+        margin: 0px auto;
+    }
+    nav{
+        position: relative;
+    }
+    .drzac{
+        flex-direction: column;
+    }
+    #kontakt input, #kontakt textarea{
+        width: 90%;
+    }
+    #pocetna #naslov h1{
+        font-size: 30px;
+    }
+    #pocetna #naslov h2{
+        font-size: 25px;
+    }
+    #pocetna #naslov h3{
+        font-size: 20px;
+    }
+    h1{
+        font-size: 26px;
+    }
+    h2{
+        font-size: 23px;
+    }
+    h3{
+        font-size: 21px;
+    }
+    p{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 480px){
+    #pocetna{
+        padding: 0px;
+    }
+    .pozadina{
+        display: none;
+    }
+    #pocetna{
+        flex-direction: column;
+    }
+    #pocetna #sredina{
+        display: block;
+    }
+    #pocetna #naslov{
+        width: 90%;
+        margin: 0px auto;
+        text-align: center;
+        margin-top: 10px;
+        animation: none;
+    }
+    .drzac .sajt{
+        width: 90%;
+        height: 350px;
+    }
+    #obrazovanje .desno {
+        display: none;
+    }
+    #obrazovanje #sadrzaj .tekst{
+        width: 90%;
+        margin: 0px auto;
+    }
+    #vestine #okvir .dijamant{
+        width: 60%;
+        height: 250px;
+    }
+    h1{
+        border-top: 1px solid #fff;
+        margin: 10px;
+        font-size: 22px;
+    }
+    h2, #vestine #okvir .dijamant p{
+        font-size: 20px;
+    }
+    h3{
+        font-size: 19px;
+    }
+    p{
+        font-size: 18px;
+    }
+    footer a i,#pocetna #pocetna #strelica i{
+        font-size: 25px;
+    }
+    p,nav ul li a,#projekti .tekst a,#kontakt input,#kontakt input::placeholder,#kontakt textarea, #kontakt textarea::placeholder{
+        font-size: 14px;
+    }
+    #pocetna #naslov h1{
+        border: 0px;
+        font-size: 25px;
+    }
+    #pocetna #naslov h2{
+        font-size: 20px;
+    }
+    #pocetna #naslov h3{
+        font-size: 18px;
+    }
+    #pocetna, #projekti, #obrazovanje, #vestine, #kontakt{
+        padding-top: 10px;
+        margin-top: 0px;
+    }
+}
